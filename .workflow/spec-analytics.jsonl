@@ -1,0 +1,5 @@
+{"type":"cli","id":"CLI-1782643171163-1","timestamp":"2026-06-28T10:39:31.163Z","command":"spec init","args":{}}
+{"type":"cli","id":"CLI-1782643193043-1","timestamp":"2026-06-28T10:39:53.043Z","command":"spec status","args":{}}
+{"type":"cli","id":"CLI-1782643327667-1","timestamp":"2026-06-28T10:42:07.667Z","command":"spec status","args":{}}
+{"type":"cli","id":"CLI-1782643424846-1","timestamp":"2026-06-28T10:43:44.847Z","command":"load","args":{"type":"spec","category":"test"}}
+{"type":"cli","id":"CLI-1782643424847-1","timestamp":"2026-06-28T10:43:44.847Z","command":"load","args":{"type":"spec","category":"coding"}}

@@ -1,0 +1,21 @@
+{
+  "version": "3.1",
+  "project_name": "Codex++",
+  "status": "initialized",
+  "current_milestone": null,
+  "current_task_id": null,
+  "milestones": [],
+  "_milestone_schema": "{ id, name, type: 'standard'|'adhoc', status, phases[], phase_slugs{}, roadmap_ref, created_at }",
+  "artifacts": [],
+  "last_updated": "2026-06-28T18:38:36+08:00",
+  "accumulated_context": {
+    "key_decisions": [
+      "Codex++ uses an external launcher and Chromium DevTools Protocol injection instead of modifying the Codex App installation.",
+      "The repository is a Rust workspace with Tauri/React manager tooling."
+    ],
+    "blockers": [],
+    "deferred": []
+  },
+  "transition_history": [],
+  "milestone_history": []
+}
